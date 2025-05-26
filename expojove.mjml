@@ -1,0 +1,81 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            !!!!!!!!!!!!!!!!CAMBIAR FUENTE A EL TEXTO¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+        </mj-attributes>
+    </mj-head>
+    <mj-body  background-color="#8fb2bc">
+        <mj-section  background-color="#a0bec8">
+            <mj-column width="100%">
+                <mj-image src="img/expojove.jpg" width="1000px"  />
+            </mj-column>
+        </mj-section>
+
+        <mj-section  background-color="#a0bec8">
+            <mj-column width="100%">
+                <mj-text align="center" color="#eb601b" font-size="30px"  >SERVICIOS QUE TIENEN ACCESO LOS EXPOSITORES</mj-text>
+                <mj-divider border-color="#085c5c" border-width="2px" border-style="solid" padding-top="25px" padding-bottom="15px" />
+            </mj-column>
+
+            <mj-column width="100%">
+                <mj-text align="center" color="#eb601b" font-size="24px" padding-bottom="40px" padding-top="25px" padding-bottom="15px" >La Feria de la Infancia y la Juventud de València</mj-text>
+                <mj-text color="white" font-size="20px" align="justify"> ¿Quieres conectar con un público familiar y dinámico en Navidad? Expojove, la Feria de la Infancia y la Juventud de Valencia,  <span style="color:#085c5c ; font-size:25px" >te ofrece la plataforma ideal para mostrar tus productos y servicios a más de 100.000 visitantes.</span></mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section  background-color="#a0bec8">
+            <mj-column width="100%">
+                <mj-image src="img/vlc.jpg" alt="" />
+                <mj-text align="center" color="#eb601b" font-size="24px" padding-top="25px" padding-bottom="15px" >Servicios de Feria Valencia:</mj-text>
+                <mj-text color="white" font-size="20px" align="justify" padding-bottom="35px" > Los expositores tienen acceso a los servicios de Feria Valencia, como la <span style="color:#085c5c ; font-size:25px" >gestión logística de montaje y desmontaje, alquiler de mobiliario, personal de seguridad y limpieza, y la posibilidad de utilizar las instalaciones para eventos especiales.</span></mj-text>
+            </mj-column>
+
+            <mj-column width="60%">
+                <mj-image src="img/balon.jpg" alt="100px" />
+            </mj-column>
+
+            <mj-column width="40%">
+                <mj-text color="white" padding-top="15px" font-size="17px" align="justify"> EXPOJOVE ofrece <span style="color:#085c5c ; font-size:18px" > múltiples posibilidades </span> para poder incluir su marca o producto y presentar los ante su público en forma de experiencia, la manera idónea de llegar a un <span style="color:#085c5c ; font-size:18px" >público al que no llegan los medios más tradicionales.</span></mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section  background-color="#a0bec8">
+            <mj-column width="100%">
+                <mj-text align="center" color="#eb601b" font-size="30px" >COMO SOLICITAR EL ACCESO A ESTOS SERVICIOS</mj-text>
+                <mj-divider border-color="#085c5c" border-width="2px" border-style="solid"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-section  background-color="#a0bec8">
+            <mj-column width="85%">
+                <mj-text color="white" font-size="20px" align="justify" padding-bottom="25px">Visita la pagina web de Feria de la Infancia y la Juventud de València para obtener mas informacion de como solicitar el acceso a estos servicios apretando el siguiente boton </mj-text>
+                <mj-button href="https://dosruedas.feriavalencia.com/" background-color="#eb601b" width="200px">
+                <mj-text align="center">¡ HAZ CLICK AQUI !</mj-text>
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section  background-color="#a0bec8">
+            <mj-column width="100%">
+                <mj-text align="center" color="#eb601b" font-size="30px">CON EL APOYO DE :</mj-text>
+                <mj-divider border-color="#085c5c" border-width="2px" border-style="solid"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-section  background-color="white">
+            <mj-column width="25%">
+                <mj-image src="img/ayuntamiento.jpg" width="250px" />
+            </mj-column>
+
+            <mj-column width="25%">
+                <mj-image src="img/emt.png" width="85px" />
+            </mj-column>
+
+            <mj-column width="50%">
+                <mj-image src="img/cmv.jpg" width="200px" />
+            </mj-column>
+
+        </mj-section>
+
+    </mj-body>
+</mjml>
