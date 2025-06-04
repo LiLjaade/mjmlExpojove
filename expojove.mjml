@@ -1,13 +1,12 @@
 <mjml>
     <mj-head>
         <mj-attributes>
-            !!!!!!!!!!!!!!!!CAMBIAR FUENTE A EL TEXTO¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
         </mj-attributes>
     </mj-head>
-    <mj-body  background-color="#8fb2bc">
+    <mj-body  background-color="#1f1f1f">
         <mj-section  background-color="#a0bec8">
             <mj-column width="100%">
-                <mj-image src="img/expojove.jpg" width="1000px"  />
+                <mj-image src="img/expojove.jpg" width="1000px" />
             </mj-column>
         </mj-section>
 
@@ -25,7 +24,7 @@
 
         <mj-section  background-color="#a0bec8">
             <mj-column width="100%">
-                <mj-image src="img/vlc.jpg" alt="" />
+                <mj-image src="img/expo.jpg" alt="" />
                 <mj-text align="center" color="#eb601b" font-size="24px" padding-top="25px" padding-bottom="15px" >Servicios de Feria Valencia:</mj-text>
                 <mj-text color="white" font-size="20px" align="justify" padding-bottom="35px" > Los expositores tienen acceso a los servicios de Feria Valencia, como la <span style="color:#085c5c ; font-size:25px" >gestión logística de montaje y desmontaje, alquiler de mobiliario, personal de seguridad y limpieza, y la posibilidad de utilizar las instalaciones para eventos especiales.</span></mj-text>
             </mj-column>
@@ -48,8 +47,8 @@
 
         <mj-section  background-color="#a0bec8">
             <mj-column width="85%">
-                <mj-text color="white" font-size="20px" align="justify" padding-bottom="25px">Visita la pagina web de Feria de la Infancia y la Juventud de València para obtener mas informacion de como solicitar el acceso a estos servicios apretando el siguiente boton </mj-text>
-                <mj-button href="https://dosruedas.feriavalencia.com/" background-color="#eb601b" width="200px">
+                <mj-text color="white" font-size="20px" align="justify" padding-bottom="25px">Visita la pagina web de Feria de la Infancia y la Juventud de València para obtener mas informacion de como solicitar el acceso a estos servicios apretando el siguiente boton. </mj-text>
+                <mj-button href="https://www.expojove.com/es/home/" background-color="#eb601b" width="200px">
                 <mj-text align="center">¡ HAZ CLICK AQUI !</mj-text>
                 </mj-button>
             </mj-column>
@@ -63,7 +62,7 @@
         </mj-section>
 
         <mj-section  background-color="white">
-            <mj-column width="25%">
+            <mj-column width="25%" >
                 <mj-image src="img/ayuntamiento.jpg" width="250px" />
             </mj-column>
 
