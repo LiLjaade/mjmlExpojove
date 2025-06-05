@@ -48,7 +48,7 @@
         <mj-section  background-color="#a0bec8">
             <mj-column width="85%">
                 <mj-text color="white" font-size="20px" align="justify" padding-bottom="25px">Visita la pagina web de Feria de la Infancia y la Juventud de València para obtener mas informacion de como solicitar el acceso a estos servicios apretando el siguiente boton. </mj-text>
-                <mj-button href="https://www.expojove.com/es/home/" background-color="#eb601b" width="200px">
+                <mj-button href="https://raw.githubusercontent.com/LiLjaade/mjmlExpojove/refs/heads/main/img/expojove.jpg" background-color="#eb601b" width="200px">
                 <mj-text align="center">¡ HAZ CLICK AQUI !</mj-text>
                 </mj-button>
             </mj-column>
@@ -63,15 +63,15 @@
 
         <mj-section  background-color="white">
             <mj-column width="25%" >
-                <mj-image src="img/ayuntamiento.jpg" width="250px" />
+                <mj-image src="https://raw.githubusercontent.com/LiLjaade/mjmlExpojove/refs/heads/main/img/ayuntamiento.jpg" width="250px" />
             </mj-column>
 
             <mj-column width="25%">
-                <mj-image src="img/emt.png" width="85px" />
+                <mj-image src="https://raw.githubusercontent.com/LiLjaade/mjmlExpojove/refs/heads/main/img/emt.png" width="85px" />
             </mj-column>
 
             <mj-column width="50%">
-                <mj-image src="img/cmv.jpg" width="200px" />
+                <mj-image src="https://raw.githubusercontent.com/LiLjaade/mjmlExpojove/refs/heads/main/img/cmv.jpg" width="200px" />
             </mj-column>
 
         </mj-section>
