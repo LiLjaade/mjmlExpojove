@@ -6,7 +6,7 @@
     <mj-body  background-color="#1f1f1f">
         <mj-section  background-color="#a0bec8">
             <mj-column width="100%">
-                <mj-image src="img/expojove.jpg" width="1000px" />
+                <mj-image src="https://raw.githubusercontent.com/LiLjaade/mjmlExpojove/refs/heads/main/img/expojove.jpg" width="1000px" />
             </mj-column>
         </mj-section>
 
@@ -30,7 +30,7 @@
             </mj-column>
 
             <mj-column width="60%">
-                <mj-image src="img/balon.jpg" alt="100px" />
+                <mj-image src="https://raw.githubusercontent.com/LiLjaade/mjmlExpojove/refs/heads/main/img/balon.jpg" alt="100px" />
             </mj-column>
 
             <mj-column width="40%">
